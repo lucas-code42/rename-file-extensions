@@ -5,8 +5,7 @@ def main():
     print()
     print('Digite o endereço da pasta que deseja alterar os arquivos:')
     path_folder = input(r'')
-    #'C:\Users\lucas\renomear_arquivos\arquivos'
-
+   
     print()
     print('Local: {}'.format(path_folder))
     print()
